@@ -71,7 +71,7 @@ Application uses environment variables:
 Example:
 
 ```properties
-spring.datasource.url=jdbc:postgresql://db:5432/taskflow
+spring.datasource.url=jdbc:postgresql://db:5432/TaskflowDB
 spring.datasource.username=${DB_USERNAME}
 spring.datasource.password=${DB_PASSWORD}
 
