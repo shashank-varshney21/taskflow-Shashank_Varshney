@@ -32,7 +32,7 @@ The system is designed as a production-style monorepo with a Spring Boot backend
 ### Frontend
 - React (Vite)
 - TypeScript
-- Axios
+- Fetch
 - React Router
 - Material UI (MUI)
 
