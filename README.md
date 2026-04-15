@@ -141,7 +141,7 @@ Reason: simplicity and faster development
 git clone https://github.com/shashank-varshney21/taskflow-shashank_varshney.git
 cd taskflow
 cp .env.example .env
-docker compose up
+docker compose up --build
 Frontend → http://localhost:3000
 Backend → http://localhost:8080
 
